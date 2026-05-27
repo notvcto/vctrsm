@@ -83,7 +83,6 @@
 
 <div align="center">
   <p>
-    Use my tools? <a href="https://www.buymeacoffee.com/vcto">Buy me a coffee ☕</a><br/>
-    <i>"You know I can't stay static."</i>
+    Use my tools? <a href="https://www.buymeacoffee.com/notvcto">Buy me a beer 🍻️</a><br/>
   </p>
 </div>
